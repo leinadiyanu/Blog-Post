@@ -1,6 +1,6 @@
 # Simple Blog Website 📝
 
-A minimal blog platform where users can create posts, comment, and react with emojis like 👍 ❤️ 😂 and more.
+A minimal blog platform where users can read posts, comment, and react with emojis like 👍 ❤️ 😂 and more.
 
 ## Features
 
